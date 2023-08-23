@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\bin\Debug\net7.0\OperadoresIncrementais.exe
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\bin\Debug\net7.0\OperadoresIncrementais.deps.json
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\bin\Debug\net7.0\OperadoresIncrementais.runtimeconfig.json
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\bin\Debug\net7.0\OperadoresIncrementais.dll
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\bin\Debug\net7.0\OperadoresIncrementais.pdb
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\obj\Debug\net7.0\OperadoresIncrementais.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\obj\Debug\net7.0\OperadoresIncrementais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\obj\Debug\net7.0\OperadoresIncrementais.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\obj\Debug\net7.0\OperadoresIncrementais.AssemblyInfo.cs
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\obj\Debug\net7.0\OperadoresIncrementais.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\obj\Debug\net7.0\OperadoresIncrementais.dll
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\obj\Debug\net7.0\refint\OperadoresIncrementais.dll
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\obj\Debug\net7.0\OperadoresIncrementais.pdb
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\obj\Debug\net7.0\OperadoresIncrementais.genruntimeconfig.cache
+C:\Users\mathe\Desktop\csharp\Calculadora\OperadoresIncrementais\obj\Debug\net7.0\ref\OperadoresIncrementais.dll
