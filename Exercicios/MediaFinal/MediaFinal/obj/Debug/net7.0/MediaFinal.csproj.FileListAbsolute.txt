@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\bin\Debug\net7.0\MediaFinal.exe
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\bin\Debug\net7.0\MediaFinal.deps.json
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\bin\Debug\net7.0\MediaFinal.runtimeconfig.json
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\bin\Debug\net7.0\MediaFinal.dll
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\bin\Debug\net7.0\MediaFinal.pdb
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\obj\Debug\net7.0\MediaFinal.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\obj\Debug\net7.0\MediaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\obj\Debug\net7.0\MediaFinal.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\obj\Debug\net7.0\MediaFinal.AssemblyInfo.cs
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\obj\Debug\net7.0\MediaFinal.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\obj\Debug\net7.0\MediaFinal.dll
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\obj\Debug\net7.0\refint\MediaFinal.dll
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\obj\Debug\net7.0\MediaFinal.pdb
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\obj\Debug\net7.0\MediaFinal.genruntimeconfig.cache
+C:\Users\mathe\Desktop\csharp\Exercicios\MediaFinal\MediaFinal\obj\Debug\net7.0\ref\MediaFinal.dll

@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\bin\Debug\net7.0\DiferencaNumeros.exe
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\bin\Debug\net7.0\DiferencaNumeros.deps.json
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\bin\Debug\net7.0\DiferencaNumeros.runtimeconfig.json
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\bin\Debug\net7.0\DiferencaNumeros.dll
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\bin\Debug\net7.0\DiferencaNumeros.pdb
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\obj\Debug\net7.0\DiferencaNumeros.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\obj\Debug\net7.0\DiferencaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\obj\Debug\net7.0\DiferencaNumeros.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\obj\Debug\net7.0\DiferencaNumeros.AssemblyInfo.cs
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\obj\Debug\net7.0\DiferencaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\obj\Debug\net7.0\DiferencaNumeros.dll
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\obj\Debug\net7.0\refint\DiferencaNumeros.dll
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\obj\Debug\net7.0\DiferencaNumeros.pdb
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\obj\Debug\net7.0\DiferencaNumeros.genruntimeconfig.cache
+C:\Users\mathe\Desktop\csharp\Exercicios\DiferencaNumeros\obj\Debug\net7.0\ref\DiferencaNumeros.dll
