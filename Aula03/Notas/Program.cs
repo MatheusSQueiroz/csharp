@@ -22,7 +22,9 @@
             */
 
             Console.WriteLine((media >= 6) ? "Aprovado!" : "Reprovado!" );
-                            // condição?    ação verdade: ação para falso
+            //                  condição?    ação verdade: ação para falso
+            //segunda condição
+           // Console.WriteLine((media >= 6) ? "Aprovado!" : (media <= 4 && < 6) ? "Exame Final" : "Reprovado!");
         }
     }
 }
