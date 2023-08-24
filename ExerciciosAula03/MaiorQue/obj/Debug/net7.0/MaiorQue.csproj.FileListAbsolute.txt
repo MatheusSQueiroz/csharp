@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\bin\Debug\net7.0\MaiorQue.exe
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\bin\Debug\net7.0\MaiorQue.deps.json
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\bin\Debug\net7.0\MaiorQue.runtimeconfig.json
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\bin\Debug\net7.0\MaiorQue.dll
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\bin\Debug\net7.0\MaiorQue.pdb
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\obj\Debug\net7.0\MaiorQue.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\obj\Debug\net7.0\MaiorQue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\obj\Debug\net7.0\MaiorQue.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\obj\Debug\net7.0\MaiorQue.AssemblyInfo.cs
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\obj\Debug\net7.0\MaiorQue.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\obj\Debug\net7.0\MaiorQue.dll
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\obj\Debug\net7.0\refint\MaiorQue.dll
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\obj\Debug\net7.0\MaiorQue.pdb
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\obj\Debug\net7.0\MaiorQue.genruntimeconfig.cache
+C:\Users\mathe\Desktop\csharp\ExerciciosAula03\MaiorQue\obj\Debug\net7.0\ref\MaiorQue.dll
