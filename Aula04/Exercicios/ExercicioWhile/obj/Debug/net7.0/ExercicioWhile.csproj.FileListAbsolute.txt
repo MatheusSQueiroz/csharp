@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\bin\Debug\net7.0\ExercicioWhile.exe
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\bin\Debug\net7.0\ExercicioWhile.deps.json
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\bin\Debug\net7.0\ExercicioWhile.runtimeconfig.json
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\bin\Debug\net7.0\ExercicioWhile.dll
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\bin\Debug\net7.0\ExercicioWhile.pdb
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.AssemblyInfo.cs
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.dll
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\obj\Debug\net7.0\refint\ExercicioWhile.dll
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.pdb
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.genruntimeconfig.cache
+C:\Users\mathe\Desktop\csharp\Aula04\Exercicios\ExercicioWhile\obj\Debug\net7.0\ref\ExercicioWhile.dll
