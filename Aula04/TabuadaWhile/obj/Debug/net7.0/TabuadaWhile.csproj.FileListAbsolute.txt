@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\bin\Debug\net7.0\TabuadaWhile.exe
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\bin\Debug\net7.0\TabuadaWhile.deps.json
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\bin\Debug\net7.0\TabuadaWhile.runtimeconfig.json
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\bin\Debug\net7.0\TabuadaWhile.dll
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\bin\Debug\net7.0\TabuadaWhile.pdb
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\obj\Debug\net7.0\TabuadaWhile.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\obj\Debug\net7.0\TabuadaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\obj\Debug\net7.0\TabuadaWhile.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\obj\Debug\net7.0\TabuadaWhile.AssemblyInfo.cs
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\obj\Debug\net7.0\TabuadaWhile.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\obj\Debug\net7.0\TabuadaWhile.dll
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\obj\Debug\net7.0\refint\TabuadaWhile.dll
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\obj\Debug\net7.0\TabuadaWhile.pdb
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\obj\Debug\net7.0\TabuadaWhile.genruntimeconfig.cache
+C:\Users\mathe\Desktop\csharp\Aula04\TabuadaWhile\obj\Debug\net7.0\ref\TabuadaWhile.dll
