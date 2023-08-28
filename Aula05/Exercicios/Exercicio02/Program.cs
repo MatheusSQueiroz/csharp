@@ -4,30 +4,38 @@
     {
         static void Main(string[] args)
         {
-            int[] vetor = { 2, 5, 1, 3, 4, 9, 7, 8, 10, 6 };
-            int num = 0;
+            float[,] matrizNotas = new float[10,4];
+
+            float[] vetorMedia = new float[10];
 
 
 
-            for (int i = 0; i < vetor.Length; i++)
+            for (int lin = 0; lin < matrizNotas.GetLength(0); lin++)
             {
-                Console.Write(vetor[i]);
+                for(int col = 0; col < matrizNotas.GetLength(1); col++)
+                {
 
+
+                Console.WriteLine($"Digite as notas para a posição [{lin}] [{col}]:");
+                matrizNotas[lin, col] = Convert.ToSingle(Console.ReadLine());
+
+                }
+                
             }
 
-            Console.WriteLine($"\nDigite um número:");
-            num = Convert.ToInt32(Console.ReadLine());
-
-            int posicao = Array.BinarySearch(vetor, num);
-
-            if (posicao < vetor.Length)
+            for (int lin = 0; lin < matrizNotas.GetLength(0); lin++)
             {
+                for (int col = 0; col < matrizNotas.GetLength(1); col++)
+                {
+                    vetorMedia[lin] += matrizNotas[lin, col];
+                }
 
-                Console.WriteLine($"\na posição do numero é:" + posicao);
+                vetorMedia[lin] = vetorMedia[lin] / 4;
             }
-            else
+
+            for(int lin = 0; lin < matrizNotas.GetLength(0); lin++)
             {
-                Console.WriteLine($"\nNão foi encontrado!");
+                Console.WriteLine($"A média é: {vetorMedia[lin]:F1}");
             }
         }
     }
