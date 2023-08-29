@@ -54,7 +54,9 @@
 
             //Alterar um elemento da lista pelo indice dele
             notas[1] = 9.3;
-            foreach (double nota in notas)
+
+            //Utiliza o VAR para identificar o tipo da variavel declarada
+            foreach (var nota in notas)
             {
                 Console.WriteLine(nota);
             }
