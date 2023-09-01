@@ -28,7 +28,7 @@ namespace Exercicio01.Model
         public override void Visualizar()
         {
             base.Visualizar();
-            Console.WriteLine($"Imposto de renda declarado: {this.impostoRenda} ");
+            Console.WriteLine($"Imposto de renda: {this.impostoRenda} ");
         }
     }
 }

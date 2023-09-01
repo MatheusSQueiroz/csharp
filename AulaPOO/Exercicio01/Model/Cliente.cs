@@ -86,7 +86,7 @@ namespace Exercicio01.Model
                 break;
 
             }
-            Console.WriteLine("***************************************");
+            Console.WriteLine("\n\n***************************************");
             Console.WriteLine("Dados do cliente:");
             Console.WriteLine("***************************************");
             Console.WriteLine("Nome do cliente: " + this.nome);          
