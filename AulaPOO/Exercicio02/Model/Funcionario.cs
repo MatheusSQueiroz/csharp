@@ -29,7 +29,7 @@ namespace Exercicio02.Model
             return nome;
         }
 
-        public void SetId(string nome)
+        public void SetNome(string nome)
         {
             this.nome = nome;
         }
@@ -73,8 +73,11 @@ namespace Exercicio02.Model
             this.salario = salario;
         }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
+         
+           
+
             Console.WriteLine("***************************************");
             Console.WriteLine("Dados do funcionário:");
             Console.WriteLine("***************************************");

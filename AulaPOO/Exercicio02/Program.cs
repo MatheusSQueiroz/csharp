@@ -6,11 +6,11 @@ namespace Exercicio02
     {
         static void Main(string[] args)
         {
-            Funcionario f1 = new Funcionario("Matheus", 18336, "Desenvolvedor Jr", "40028922", 15000.00M);
-            Funcionario f2 = new Funcionario("Zé Bug", 15208, "TechLead", "89224002", 30000.00M);
+            Gerente g1 = new Gerente ("Matheus", 18336, "Gerente", "40028922", 15000.00M, "SP");
+            g1.Visualizar();
 
-            f1.Visualizar();
-            f2.Visualizar();
+            Vendedor v1 = new Vendedor("Buguinho", 12345, "Vendedor", "789456123", 5000.00M, "Matriz-RJ");
+            v1.Visualizar();
         }
     }
 }
