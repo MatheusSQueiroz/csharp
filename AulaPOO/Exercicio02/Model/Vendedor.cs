@@ -9,10 +9,13 @@ namespace Exercicio02.Model
     public class Vendedor : Funcionario
     {
         private string loja = string.Empty;
-        public Vendedor(string nome, int matricula, string cargo, string cpf, decimal salario, string loja) 
+        private int comissao;
+        public Vendedor(string nome, int matricula, string cargo, string cpf, 
+            decimal salario, string loja, int comissao) 
             : base(nome, matricula, cargo, cpf, salario)
         {
             this.loja = loja;
+            this.comissao = comissao;
         }
 
         public string GetLoja()
@@ -25,10 +28,21 @@ namespace Exercicio02.Model
             this.loja = loja;
         }
 
+        public int GetComissao()
+        {
+            return this.comissao;
+        }
+
+        public void SetComissao(int comissao)
+        {
+            this.comissao = comissao;
+        }
+
         public override void Visualizar()
         {
             base.Visualizar();
             Console.WriteLine($"Loja atual: {this.loja}");
+            Console.WriteLine($"Porcentagem de comissão: {this.comissao}%");
         }
     }
 }

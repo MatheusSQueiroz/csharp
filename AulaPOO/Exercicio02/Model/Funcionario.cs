@@ -78,7 +78,7 @@ namespace Exercicio02.Model
          
            
 
-            Console.WriteLine("***************************************");
+            Console.WriteLine("\n\n***************************************");
             Console.WriteLine("Dados do funcionário:");
             Console.WriteLine("***************************************");
             Console.WriteLine("Nome do funcionário: " + this.nome);
