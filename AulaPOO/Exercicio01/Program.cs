@@ -6,11 +6,12 @@ namespace Exercicio01
     {
         static void Main(string[] args)
         {
-            Cliente c1 = new Cliente (123, "Matheus", "40028922", "70707070", "Rua Sete");
-            Cliente c2 = new Cliente(456, "Zé Bug", "12345678", "49227872", "Rua Error 404");
-          
-            c1.Visualizar();
-            c2.Visualizar();
+            PessoaFisica pf1 = new PessoaFisica(1,"Matheus", "40028922","70707070", "Rua Sete", "Declarado" );
+            pf1.Visualizar();
+            Console.WriteLine("\n");
+
+            PessoaJuridica pj1 = new PessoaJuridica(2, "Devs S.A", "89224002", "12345678", "Rua Bugs", 789456123);
+            pj1.Visualizar();
         }
     }
 }

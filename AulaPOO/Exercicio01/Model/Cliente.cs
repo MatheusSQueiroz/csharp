@@ -71,14 +71,26 @@ namespace Exercicio01.Model
             this.endereco = endereco;
         }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
+            string tipo = string.Empty;
+
+            //Definição do tipo de cliente para exibir cpf ou cnpj
+            switch (this.id)
+            {
+                case 1:
+                    tipo = "Pessoa Física\nCPF do cliente: " + this.cpf;
+                break;
+                case 2:
+                    tipo = "Pessoa Jurídica\nCNPJ do cliente: " + this.cpf;
+                break;
+
+            }
             Console.WriteLine("***************************************");
             Console.WriteLine("Dados do cliente:");
             Console.WriteLine("***************************************");
-            Console.WriteLine("Código do cliente: " + this.id);
-            Console.WriteLine("Nome do cliente: " + this.nome);
-            Console.WriteLine("CPF do cliente: " + this.cpf);
+            Console.WriteLine("Nome do cliente: " + this.nome);          
+            Console.WriteLine($"Tipo cliente: {tipo}");
             Console.WriteLine("Telefone do cliente: " + this.cel);
             Console.WriteLine("Endereço do cliente: " + this.endereco);
         }
