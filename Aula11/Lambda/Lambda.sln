@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda.csproj", "{FE4E6359-9943-48D9-99FB-93E3742B4926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "..\Linq\Linq.csproj", "{3137CD25-36AC-45C7-9EC9-52DEA2712777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4E6359-9943-48D9-99FB-93E3742B4926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4E6359-9943-48D9-99FB-93E3742B4926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4E6359-9943-48D9-99FB-93E3742B4926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4E6359-9943-48D9-99FB-93E3742B4926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3137CD25-36AC-45C7-9EC9-52DEA2712777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3137CD25-36AC-45C7-9EC9-52DEA2712777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3137CD25-36AC-45C7-9EC9-52DEA2712777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3137CD25-36AC-45C7-9EC9-52DEA2712777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BEA1199-13B2-4426-9C66-6754606933F4}
+	EndGlobalSection
+EndGlobal
